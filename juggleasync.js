@@ -1,4 +1,4 @@
-// Program: httpcollect.js
+// Program: juggleasync.js
 // Author:  Jim Medlock
 // Date written: 1/9/2017
 
