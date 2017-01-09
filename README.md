@@ -16,7 +16,7 @@ to learn the NodeJS environment and capabilities:
 | MAKE IT MODULAR      | makeItModular.js |
 |                      | filterDir.js     |
 | HTTP CLIENT          | httpclient.js    |                                 
-| HTTP COLLECT         | |
+| HTTP COLLECT         | httpcollect.js   |
 | JUGGLING ASYNC       | |
 | TIME SERVER          | |
 | HTTP FILE SERVER     | |
