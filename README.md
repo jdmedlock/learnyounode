@@ -1,4 +1,4 @@
-# learnyounode - FreeCodeCamp learnnodejs exercises
+# learnyounode - FreeCodeCamp 'learnyounode' exercises
 
 This repo contains my solutions for the exercises defined in the 
 learnyounode-series of FCC exercises.
@@ -17,7 +17,7 @@ to learn the NodeJS environment and capabilities:
 |                      | filterDir.js     |
 | HTTP CLIENT          | httpclient.js    |                                 
 | HTTP COLLECT         | httpcollect.js   |
-| JUGGLING ASYNC       | |
+| JUGGLING ASYNC       | juggleasync.js   |
 | TIME SERVER          | |
 | HTTP FILE SERVER     | |
 | HTTP UPPERCASERER    | |

@@ -1,6 +1,6 @@
-// Program: filterDir.js
+// Program: httpcollect.js
 // Author:  Jim Medlock
-// Date written: 1/8/2017
+// Date written: 1/9/2017
 
 'use strict'
 
