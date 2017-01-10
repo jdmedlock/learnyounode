@@ -76,3 +76,25 @@
 //  strftime(fmt, date) function takes date formats just like the unix date  
 //  command. You can read more about strftime at:  
 //  [https://github.com/samsonjs/strftime](https://github.com/samsonjs/strftime)
+
+const net = require('net');
+
+var server = net.createServer(function(socket) {
+    const date = new Date();
+    const formattedDate = date.getFullYear() + "-" +
+        leadingZero(date.getMonth() + 1) + "-" +
+        leadingZero(date.getDate()) + " " +
+        leadingZero(date.getHours()) + ":" +
+        leadingZero(date.getMinutes());
+
+    socket.write(formattedDate + "\n");
+    socket.end();
+});
+server.listen(process.argv[2]);
+
+// Left pad a number with a leading zero
+//
+// Returns: Formatted string containing the two-digit number
+function leadingZero(number) {
+    return (number < 10) ? "0" + number : number;
+}
