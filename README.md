@@ -19,6 +19,6 @@ to learn the NodeJS environment and capabilities:
 | HTTP COLLECT         | httpcollect.js   |
 | JUGGLING ASYNC       | juggleasync.js   |
 | TIME SERVER          | timeserver.js    |
-| HTTP FILE SERVER     |  |
+| HTTP FILE SERVER     | httpserver.js    |
 | HTTP UPPERCASERER    |  |
 | HTTP JSON API SERVER |  |
