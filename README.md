@@ -20,5 +20,5 @@ to learn the NodeJS environment and capabilities:
 | JUGGLING ASYNC       | juggleasync.js   |
 | TIME SERVER          | timeserver.js    |
 | HTTP FILE SERVER     | httpserver.js    |
-| HTTP UPPERCASERER    |  |
+| HTTP UPPERCASERER    | httpupper.js     |
 | HTTP JSON API SERVER |  |
