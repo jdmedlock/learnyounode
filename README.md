@@ -21,4 +21,4 @@ to learn the NodeJS environment and capabilities:
 | TIME SERVER          | timeserver.js    |
 | HTTP FILE SERVER     | httpserver.js    |
 | HTTP UPPERCASERER    | httpupper.js     |
-| HTTP JSON API SERVER |  |
+| HTTP JSON API SERVER | jsonserver.js    |
